@@ -576,7 +576,12 @@
         width: 400px;
     }
 
-  /* gi
+/* . {
+        gap: 120px;
+        font-size: 20px;
+        line-height: 27px;
+    } */
+
     .text_vertical {
         gap: 30px;
         width: 469px;
