@@ -207,6 +207,7 @@
     margin-top: 32px;
     transition: all 0.3s;
     background-color: #FFBC0D;
+    cursor: pointer;
 }
 
 .page-nav li:hover, .page-nav li.selected {
