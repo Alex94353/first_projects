@@ -200,14 +200,16 @@
     z-index: 20;
 }
 
+
+
 .page-nav li {
     width: 8px;
     height: 8px;
-    background: #FFFFFF;
     opacity: 0.4;
     border-radius: 32px;
     margin-top: 32px;
     transition: all 0.3s;
+    background-color: #FFBC0D;
 }
 
 .page-nav li:hover, .page-nav li.selected {
